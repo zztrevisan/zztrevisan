@@ -17,7 +17,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=3EA4D8)
 
 <br clear="both">
----
 
 ## <img src="./about.gif" width="22" align="center"> &nbsp; > whoami
 
