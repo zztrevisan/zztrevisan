@@ -1,14 +1,1 @@
-<img width="28" height="28" alt="about" src="https://github.com/user-attachments/assets/a67b6f6f-fd31-4adb-99fb-a1e0b75f7ebe" />
-<img width="28" height="28" alt="build" src="https://github.com/user-attachments/assets/cbc1d8e9-6b38-459f-b459-06e42b0c14b4" />[README.md](https://github.com/user-attachments/files/31310145/README.md)
-<img width="28" height="28" alt="terminal" src="https://github.com/user-attachments/assets/b15f5f46-636f-4a0e-8a77-a732de22d13a" />
-<img width="420" height="230" alt="terminal-profile" src="https://github.com/user-attachments/assets/0e0eed7c-7b88-440d-9278-baf73f61866f" />
-<img width="28" height="28" alt="stack" src="https://github.com/user-attachments/assets/ba1bfec1-707b-40e7-9b78-577af502552a" />
-<img width="28" height="28" alt="project" src="https://github.com/user-attachments/assets/fb2235c8-1a86-4430-983a-73488d0c0a57" />
-<img width="28" height="28" alt="learning" src="https://github.com/user-attachments/assets/4ee3581e-ce7d-4d32-9bad-7e9b5a93b5fc" />
-<img width="28" height="28" alt="journey" src="https://github.com/user-attachments/assets/5ca6d1e4-61a3-4d02-8b65-fd646014350d" />
-<img width="28" height="28" alt="goal" src="https://github.com/user-attachments/assets/167c4fa2-8e91-4de6-bdd2-ab1c09999a54" />
-<img width="28" height="28" alt="globe" src="https://github.com/user-attachments/assets/3ce9a44f-d886-4421-8131-08953c89f3f3" />
-<img width="28" height="28" alt="game" src="https://github.com/user-attachments/assets/da060075-a15a-4f44-8476-06ccded232bf" />
-<img width="28" height="28" alt="english" src="https://github.com/user-attachments/assets/b51db132-cf05-4c2b-b8e4-18982fcc7613" />
-<img width="28" height="28" alt="education" src="https://github.com/user-attachments/assets/eda14b4d-fad7-49d3-9222-25e2efd68431" />
-<img width="28" height="28" alt="code" src="https://github.com/user-attachments/assets/bf4bfb4e-b3fd-435a-bfb8-a296b9260316" />
+
