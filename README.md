@@ -1,4 +1,4 @@
-<img align="right" width="365" src="./terminal-profile.gif" alt="Guilherme Trevisan terminal">
+<img align="right" width="340" src="./optical_minimal_no_lines.gif" alt="Minimal optical animation">
 
 # Guilherme Trevisan
 
