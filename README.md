@@ -1,6 +1,6 @@
 # Guilherme Trevisan
 
-<img align="right" width="300" src="./profile-orbit.gif" alt="Minimal optical animation">
+<img align="right" width="300" src="./profile-orbit-transparent.gif" alt="Optical animation">
 
 ### Software Engineering @ FIAP — Brazil  
 ### IT Studies @ AIT Australia
