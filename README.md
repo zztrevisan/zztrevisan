@@ -1,6 +1,7 @@
 # Hey, I'm Guilherme Trevisan
 
-### Software Engineering @ FIAP | Building my way into Full-Stack Development
+### Software Engineering @ FIAP 🇧🇷 | IT Studies @ AIT Australia 🇦🇺
+### Building my way into Full-Stack Development
 
 I've been around technology for as long as I can remember.
 
