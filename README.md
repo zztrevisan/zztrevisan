@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-## <img src="./about.gif" width="22" align="center"> &nbsp; > whoami
+## <img src="./about.gif" width="26" align="center"> &nbsp; > whoami
 
 I've been around technology for as long as I can remember.
 
@@ -52,7 +52,7 @@ And the way I like to learn is pretty simple:
 
 ---
 
-## <img src="./journey.gif" width="22" align="center"> &nbsp; > journey
+## <img src="./journey.gif" width="26" align="center"> &nbsp; > journey
 
 ```text
 EARLY CURIOSITY
@@ -82,7 +82,7 @@ Current Mission
 
 ---
 
-## <img src="./project.gif" width="22" align="center"> &nbsp; > current_project
+## <img src="./project.gif" width="26" align="center"> &nbsp; > current_project
 
 # Hiperion Protocolos
 
@@ -123,7 +123,7 @@ I want to understand the entire system behind the screen.
 
 ---
 
-## <img src="./stack.gif" width="22" align="center"> &nbsp; > tech_stack
+## <img src="./stack.gif" width="26" align="center"> &nbsp; > tech_stack
 
 ### Frontend
 
@@ -149,7 +149,7 @@ I want to understand the entire system behind the screen.
 
 ---
 
-## <img src="./learning.gif" width="22" align="center"> &nbsp; > currently_learning
+## <img src="./learning.gif" width="26" align="center"> &nbsp; > currently_learning
 
 ```text
 React                   → Frontend
@@ -174,7 +174,7 @@ I want to understand:
 
 ---
 
-## <img src="./goal.gif" width="22" align="center"> &nbsp; > current_goal
+## <img src="./goal.gif" width="26" align="center"> &nbsp; > current_goal
 
 My goal is to become a **Full-Stack Developer** with a real understanding of the entire application lifecycle.
 
@@ -209,7 +209,7 @@ I want to understand **why it runs, how it breaks, and how to build it better.**
 
 ---
 
-## <img src="./terminal.gif" width="22" align="center"> &nbsp; > beyond_code
+## <img src="./terminal.gif" width="26" align="center"> &nbsp; > beyond_code
 
 <img src="./game.gif" width="23" align="center"> &nbsp; **Game Development**  
 SAGA — School of Art, Game and Animation
