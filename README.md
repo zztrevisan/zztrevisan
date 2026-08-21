@@ -212,22 +212,23 @@ I want to understand **why it runs, how it breaks, and how to build it better.**
 
 ## > beyond_code
 
-🎮 **Game Development**  
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="28" align="center"> &nbsp; **Game Development**  
 SAGA — School of Art, Game and Animation
 
-🇦🇺 **International Experience**  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="center"> &nbsp; **International Experience**  
 Information Technology Studies — AIT Australia
 
-🎓 **Software Engineering**  
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="28" align="center"> &nbsp; **Software Engineering**  
 FIAP — Brazil
 
-💻 **Current Focus**  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2F4bG91c2U4dTJkYXBzYW55eDdoeGoybnltcnM2dm93NWNpOHJ5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="28" align="center"> &nbsp; **Current Focus**  
 Full-Stack Development
 
-🚀 **Learning Style**  
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28" align="center"> &nbsp; **Learning Style**  
 Building real-world projects
 
----
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28" align="center"> &nbsp; **English — Fluent**  
+Advanced English Certification — Australian Pacific College, Australia
 
 ## > current_status
 
