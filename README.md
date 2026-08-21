@@ -1,6 +1,6 @@
-<img align="right" width="340" src="./optical_minimal_no_lines.gif" alt="Minimal optical animation">
-
 # Guilherme Trevisan
+
+<img align="right" width="300" src="./profile-orbit.gif" alt="Minimal optical animation">
 
 ### Software Engineering @ FIAP — Brazil  
 ### IT Studies @ AIT Australia
@@ -17,7 +17,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=3EA4D8)
 
 <br clear="both">
-
 ---
 
 ## <img src="./about.gif" width="22" align="center"> &nbsp; > whoami
