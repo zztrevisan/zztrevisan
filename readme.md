@@ -3,7 +3,7 @@
 <img align="right" width="300" src="./profile-orbit-transparent.gif" alt="Optical animation">
 
 ### Software Engineering @ FIAP — Brazil  
-### IT Studies @ AIT Australia
+### IT Studies @ AIT — Australia
 
 **Building my way into Full-Stack Development.**
 
