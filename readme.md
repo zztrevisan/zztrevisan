@@ -265,7 +265,7 @@ I want to understand **why it runs, how it breaks, and how to build it better.**
 <p>
   <img src="./english.gif" width="26" height="26" valign="middle">
   &nbsp; <strong>English Proficiency</strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fluent English · Advanced English Certification — Australian Pacific College, Australia
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advanced English Certification — Australian Pacific College, Australia
 </p>
 
 ---
