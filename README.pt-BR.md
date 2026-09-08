@@ -9,7 +9,7 @@
 
 `Problema` → `Frontend` → `Backend` → `Banco de dados` → `Infraestrutura` → `Produção`
 
-[🇺🇸 English](./README.md) · [🇧🇷 Português](./README.pt-BR.md)
+[English](./README.md) · [Português](./README.pt-BR.md)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
