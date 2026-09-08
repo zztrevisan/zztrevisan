@@ -30,11 +30,19 @@ I learn by turning real operational problems into software. My current interests
 
 ### Hiperion Protocolos
 
-Internal web application that replaces a paper-based document delivery process with a traceable digital workflow.
+The original system that started with a real problem at my current workplace: replacing paper-based document deliveries with a complete, traceable digital operation.
 
-`Node.js` `Express` `SQLite` `REST API` `PWA` `Offline Support` `Sync`
+`Node.js` `Express` `SQLite/Turso` `PWA` `Offline Sync` `QR Code` `Digital Signatures` `RBAC`
 
-[→ Explore Hiperion Protocolos](./docs/en/hiperion-protocolos.md)
+Includes protocol and pickup requests, QR Code validation, signatures, delivery evidence, configurable GPS rules, e-mail notifications, printing, audit history, recoverable deletion and cloud/internal operation.
+
+[→ Full project story](./docs/en/hiperion-protocolos.md) · [→ View public repository](https://github.com/zztrevisan/ProtocolosHiperion)
+
+### ProtoVia
+
+The commercial evolution currently in development: an independent, configurable version designed to be installed for different organizations without carrying Hiperion's operational data or identity.
+
+[→ See how ProtoVia evolved from Hiperion](./docs/en/protovia.md)
 
 ### NFSe Hiperion
 

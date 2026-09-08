@@ -30,11 +30,19 @@ Aprendo transformando problemas operacionais reais em software. Hoje, meus inter
 
 ### Hiperion Protocolos
 
-Aplicação web interna que substitui um processo de entrega de documentos em papel por um fluxo digital rastreável.
+O sistema original, nascido de um problema real do meu trabalho atual: substituir entregas de documentos em papel por uma operação digital completa e rastreável.
 
-`Node.js` `Express` `SQLite` `REST API` `PWA` `Suporte offline` `Sincronização`
+`Node.js` `Express` `SQLite/Turso` `PWA` `Sincronização offline` `QR Code` `Assinaturas digitais` `RBAC`
 
-[→ Conheça o Hiperion Protocolos](./docs/pt-br/hiperion-protocolos.md)
+Reúne solicitações de protocolos e retiradas, validação por QR Code, assinaturas, evidências de entrega, regras configuráveis de GPS, avisos por e-mail, impressão, auditoria, exclusão recuperável e operação em nuvem ou servidor interno.
+
+[→ Conheça toda a história](./docs/pt-br/hiperion-protocolos.md) · [→ Acessar repositório público](https://github.com/zztrevisan/ProtocolosHiperion)
+
+### ProtoVia
+
+A evolução comercial em desenvolvimento: uma versão independente e configurável, pensada para ser instalada em diferentes organizações sem carregar os dados ou a identidade operacional da Hiperion.
+
+[→ Veja como a ProtoVia evoluiu do Hiperion](./docs/pt-br/protovia.md)
 
 ### NFSe Hiperion
 
