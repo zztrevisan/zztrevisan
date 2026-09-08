@@ -42,7 +42,7 @@ Includes protocol and pickup requests, QR Code validation, signatures, delivery 
 
 The commercial evolution currently in development: an independent, configurable version designed to be installed for different organizations without carrying Hiperion's operational data or identity.
 
-[→ See how ProtoVia evolved from Hiperion](./docs/en/protovia.md)
+[→ See how ProtoVia evolved from Hiperion](./docs/en/protovia.md) · [→ View public repository](https://github.com/zztrevisan/protovia)
 
 ### NFSe Hiperion
 
