@@ -1,6 +1,6 @@
 # NFSe Hiperion
 
-[← Início](../../README.pt-BR.md) · [🇺🇸 Read in English](../en/nfse-hiperion.md) · [Próximo: Jornada →](./jornada.md)
+[← Início](../../README.pt-BR.md) · [Read in English](../en/nfse-hiperion.md) · [Próximo: Jornada →](./jornada.md)
 
 O **NFSe Hiperion** é um projeto de automação de processos de negócio voltado à redução do trabalho repetitivo com documentos de notas fiscais de serviço municipais.
 
