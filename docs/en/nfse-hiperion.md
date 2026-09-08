@@ -1,6 +1,6 @@
 # NFSe Hiperion
 
-[← Home](../../README.md) · [🇧🇷 Ler em português](../pt-br/nfse-hiperion.md) · [Next: Journey →](./journey.md)
+[← Home](../../README.md) · [Ler em português](../pt-br/nfse-hiperion.md) · [Next: Journey →](./journey.md)
 
 **NFSe Hiperion** is a business process automation project focused on reducing repetitive work with municipal service invoice documents.
 
