@@ -36,7 +36,7 @@ The original system that started with a real problem at my current workplace: re
 
 Includes protocol and pickup requests, QR Code validation, signatures, delivery evidence, configurable GPS rules, e-mail notifications, printing, audit history, recoverable deletion and cloud/internal operation.
 
-[→ Full project story](./docs/en/hiperion-protocolos.md) · [→ View public repository](https://github.com/zztrevisan/ProtocolosHiperion)
+[→ Full project story](./docs/en/hiperion-protocolos.md) · [→ View public repository](https://github.com/zztrevisan/PROTOCOLOS-SERVER)
 
 ### ProtoVia
 
