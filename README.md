@@ -52,7 +52,8 @@ Automation project designed to reduce repetitive work when downloading and organ
 
 🇦🇺 Information Technology studies at **AIT**<br>
 🇦🇺 Advanced English certification from **Australian Pacific College**<br>
-🌎 Advanced English and professional communication
+
+Advanced English and professional communication
 
 ---
 
