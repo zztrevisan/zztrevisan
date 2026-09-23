@@ -14,13 +14,12 @@ These are the technologies where I currently have the most hands-on experience:
 - **HTML and CSS** for application interfaces
 - **Git and GitHub** for version control and project history
 - **PWA, offline behavior and synchronization** through Hiperion Protocolos
+- **React, TypeScript and Next.js** in the Hiperion Website redesign
 
 ## Expanding the foundation
 
 These are active areas of study, not claims of mastery:
 
-- **React** — component-based interface development
-- **TypeScript** — clearer contracts and safer JavaScript
 - **SQL and data modeling** — stronger queries, constraints and schema decisions
 - **Automated testing** — reliable changes and regression prevention
 - **Software architecture** — boundaries, responsibilities and trade-offs

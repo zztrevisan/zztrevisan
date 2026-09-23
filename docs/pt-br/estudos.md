@@ -14,13 +14,12 @@ Estas são as tecnologias em que tenho mais experiência prática atualmente:
 - **HTML e CSS** para interfaces de aplicações
 - **Git e GitHub** para controle de versão e histórico dos projetos
 - **PWA, funcionamento offline e sincronização** por meio do Hiperion Protocolos
+- **React, TypeScript e Next.js** no redesign do Site Hiperion
 
 ## Expandindo conhecimentos
 
 Estas são áreas de estudo ativas, não alegações de domínio:
 
-- **React** — desenvolvimento de interfaces baseadas em componentes
-- **TypeScript** — contratos mais claros e JavaScript mais seguro
 - **SQL e modelagem de dados** — consultas, restrições e decisões de esquema melhores
 - **Testes automatizados** — mudanças mais confiáveis e prevenção de regressões
 - **Arquitetura de software** — limites, responsabilidades e trade-offs

@@ -12,6 +12,9 @@
 [English](./README.md) · [Português](./README.pt-BR.md)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=3EA4D8)
@@ -38,6 +41,16 @@ Includes protocol and pickup requests, QR Code validation, signatures, delivery 
 
 [→ Full project story](./docs/en/hiperion-protocolos.md) · [→ View public repository](https://github.com/zztrevisan/PROTOCOLOS-SERVER)
 
+### Hiperion Website
+
+The complete redesign of my workplace public website: a 1969 accounting firm that needed a site explaining what it actually delivers.
+
+`Next.js` `React` `TypeScript` `Three.js` `GSAP` `Light/Dark themes` `3 languages` `Content as data`
+
+Includes a 3D hero built with instanced geometry, scroll-driven storytelling, a dotted globe rendered from a precomputed land mask, curated news that always credits its official source, and content the team updates without touching code.
+
+[→ Full project story](./docs/en/hiperion-website.md)
+
 ### ProtoVia
 
 The commercial evolution currently in development: an independent, configurable version designed to be installed for different organizations without carrying Hiperion's operational data or identity.
@@ -52,7 +65,7 @@ Automation project designed to reduce repetitive work when downloading and organ
 
 ## `> currently_learning`
 
-`React` · `TypeScript` · `SQL` · `Testing` · `Software Architecture` · `Security` · `Cloud & DevOps fundamentals`
+`SQL` · `Testing` · `Software Architecture` · `Security` · `Accessibility & Performance` · `Cloud & DevOps fundamentals`
 
 [→ What I am studying](./docs/en/learning.md)
 

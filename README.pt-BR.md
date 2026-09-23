@@ -12,6 +12,9 @@
 [English](./README.md) · [Português](./README.pt-BR.md)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=3EA4D8)
@@ -38,6 +41,16 @@ Reúne solicitações de protocolos e retiradas, validação por QR Code, assina
 
 [→ Conheça toda a história](./docs/pt-br/hiperion-protocolos.md) · [→ Acessar repositório público](https://github.com/zztrevisan/ProtocolosHiperion)
 
+### Site Hiperion
+
+O redesign completo do site público do meu trabalho: um escritório de contabilidade de 1969 que precisava de um site capaz de explicar o que realmente entrega.
+
+`Next.js` `React` `TypeScript` `Three.js` `GSAP` `Temas claro e escuro` `3 idiomas` `Conteúdo como dado`
+
+Reúne um topo em 3D com geometria instanciada, narrativa guiada pela rolagem, um globo de pontos gerado a partir de uma máscara pré-calculada, notícias selecionadas que sempre creditam a fonte oficial e conteúdo que a equipe atualiza sem mexer em código.
+
+[→ Conheça toda a história](./docs/pt-br/site-hiperion.md)
+
 ### ProtoVia
 
 A evolução comercial em desenvolvimento: uma versão independente e configurável, pensada para ser instalada em diferentes organizações sem carregar os dados ou a identidade operacional da Hiperion.
@@ -52,7 +65,7 @@ Projeto de automação criado para reduzir o trabalho repetitivo de baixar e org
 
 ## `> estudando_agora`
 
-`React` · `TypeScript` · `SQL` · `Testes` · `Arquitetura de Software` · `Segurança` · `Fundamentos de Cloud e DevOps`
+`SQL` · `Testes` · `Arquitetura de Software` · `Segurança` · `Acessibilidade e Performance` · `Fundamentos de Cloud e DevOps`
 
 [→ O que estou estudando](./docs/pt-br/estudos.md)
 
