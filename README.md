@@ -8,18 +8,26 @@
 
 <br>
 
-### Experience
+<h3 align="center">Experience</h3>
 
-**[Hiperion](https://hiperionassessoriacontabil.com.br/pt)** &nbsp; Software development & digital transformation  
-**[Fismed](https://www.fismed.com.br/)** &nbsp; Front-end development · Angular  
-**[Markab](https://www.markabpay.com/)** &nbsp; Mobile development · React Native
+<p align="center">
+  <a href="https://hiperionassessoriacontabil.com.br/pt"><b>Hiperion</b></a> &nbsp; · &nbsp; Software development &amp; digital transformation<br>
+  <a href="https://www.fismed.com.br/"><b>Fismed</b></a> &nbsp; · &nbsp; Front-end development · Angular<br>
+  <a href="https://www.markabpay.com/"><b>Markab</b></a> &nbsp; · &nbsp; Mobile development · React Native
+</p>
 
-### Research
+<br>
 
-Undergraduate research in progress at FIAP on behavioral language for AI-assisted software development.
+<h3 align="center">Research</h3>
 
-### Tools I work with
+<p align="center">
+  <sub>FIAP &nbsp; / &nbsp; UNDERGRADUATE RESEARCH &nbsp; / &nbsp; IN PROGRESS</sub><br><br>
+  <b>Behavioral language for AI-assisted software development</b>
+</p>
 
+<br>
+
+<h3 align="center">Tools I work with</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,angular,tailwind,nodejs,express,sqlite,git,vercel&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Python, React, Next.js, Angular, Tailwind CSS, Node.js, Express, SQLite, Git and Vercel" />
 </p>
@@ -29,4 +37,5 @@ Undergraduate research in progress at FIAP on behavioral language for AI-assiste
 <p align="center"><sub>SOFTWARE ENGINEERING @ FIAP &nbsp; / &nbsp; IT STUDIES @ AIT, AUSTRALIA</sub></p>
 
 <p align="center"><img src="ascii-bottom.gif" alt="Animated ASCII characters moving across the bottom" width="100%" /></p>
+
 
