@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="ascii-top.gif" alt="Animated ASCII characters moving across the top" width="100%" />
-</p>
-
 <h1 align="center">Guilherme Trevisan</h1>
 <p align="center">Software developer · São Paulo, Brazil</p>
 
