@@ -17,13 +17,11 @@
 ### Tools I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,angular,nodejs,express,sqlite,git,vercel&perline=6" alt="JavaScript, TypeScript, Python, React, Next.js, Angular, Node.js, Express, SQLite, Git and Vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,angular,tailwind,nodejs,express,sqlite,git,vercel&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Python, React, Next.js, Angular, Tailwind CSS, Node.js, Express, SQLite, Git and Vercel" />
 </p>
+
 <br>
 
 <p align="center"><sub>SOFTWARE ENGINEERING @ FIAP &nbsp; / &nbsp; IT STUDIES @ AIT, AUSTRALIA</sub></p>
 
 <p align="center"><img src="ascii-bottom.gif" alt="Animated ASCII characters moving across the bottom" width="100%" /></p>
-
-
-
