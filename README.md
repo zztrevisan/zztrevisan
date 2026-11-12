@@ -10,11 +10,11 @@
 
 <h3 align="center">Experience</h3>
 
-<p align="center">
-  <a href="https://hiperionassessoriacontabil.com.br/pt"><b>Hiperion</b></a> &nbsp;   ·  &nbsp; Software development &amp; digital transformation<br>
-  <a href="https://www.fismed.com.br/"><b>Fismed</b></a> &nbsp;  · &nbsp; Front-end development · Angular<br>
-  <a href="https://www.markabpay.com/"><b>Markab</b></a> &nbsp;  · &nbsp; Mobile development · React Native
-</p>
+<table align="center">
+  <tr><td align="right"><a href="https://hiperionassessoriacontabil.com.br/pt"><b>Hiperion</b></a></td><td>Software development &amp; digital transformation</td></tr>
+  <tr><td align="right"><a href="https://www.fismed.com.br/"><b>Fismed</b></a></td><td>Front-end development · Angular</td></tr>
+  <tr><td align="right"><a href="https://www.markabpay.com/"><b>Markab</b></a></td><td>Mobile development · React Native</td></tr>
+</table>
 
 <br>
 
@@ -37,5 +37,6 @@
 <p align="center"><sub>SOFTWARE ENGINEERING @ FIAP &nbsp; / &nbsp; IT STUDIES @ AIT, AUSTRALIA</sub></p>
 
 <p align="center"><img src="ascii-bottom.gif" alt="Animated ASCII characters moving across the bottom" width="100%" /></p>
+
 
 
