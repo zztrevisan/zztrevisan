@@ -14,7 +14,7 @@
 
 ### What I do
 
-**Web & mobile** &nbsp; · &nbsp; **APIs & backend** &nbsp; · &nbsp; **Automation** &nbsp; · &nbsp; **AI-assisted development**
+**Web & mobile** &nbsp; · &nbsp; **APIs & backend** &nbsp; · &nbsp; **Automation** &nbsp;
 
 ### Experience
 
