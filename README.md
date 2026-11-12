@@ -1,85 +1,39 @@
-# Guilherme Trevisan
+<p align="center">
+  <img src="banner.svg" alt="Guilherme Trevisan — Software Developer" width="100%" />
+</p>
 
-<img align="right" width="280" src="./profile-orbit-transparent.gif" alt="Optical animation">
+<p align="center">
+  <a href="https://www.linkedin.com/in/trevisanz/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://github.com/zztrevisan/zztrevisan/blob/main/README.pt-BR.md">Português</a> &nbsp; · &nbsp;
+  São Paulo, Brazil
+</p>
 
-### Software Engineering @ FIAP — Brazil  
-### Information Technology Studies @ AIT — Australia
+<br>
 
-**Software Engineering student building real-world applications and growing toward Full-Stack Engineering.**
+### What I do
 
-`Problem` → `Frontend` → `Backend` → `Database` → `Infrastructure` → `Production`
+**Web & mobile** &nbsp; · &nbsp; **APIs & backend** &nbsp; · &nbsp; **Automation** &nbsp; · &nbsp; **AI-assisted development**
 
-[English](./README.md) · [Português](./README.pt-BR.md)
+### What I've built
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css&logoColor=663399)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=3EA4D8)
+| | Project | Focus | Stack |
+|:--|:--|:--|:--|
+| **01** | [Hiperion Protocolos](https://github.com/zztrevisan/PROTOCOLOS-SERVER-PUBLIC) | Document traceability · offline sync | Node.js · Express · Turso · PWA |
+| **02** | [NFS-e Hiperion](https://github.com/zztrevisan/zztrevisan/blob/main/docs/en/nfse-hiperion.md) | Invoice automation · API integration | Python · SQLite · mTLS |
+| **03** | [Hiperion Website](https://github.com/zztrevisan/zztrevisan/blob/main/docs/en/hiperion-website.md) | Multilingual website · 3D & motion | Next.js · TypeScript · Three.js |
+| **04** | [ProtoVia](https://github.com/zztrevisan/zztrevisan/blob/main/docs/en/protovia.md) | Configurable document workflows | Product in development |
 
-<br clear="both">
+### Experience
 
----
+**Hiperion** &nbsp; Software development & digital transformation  
+**Fismed** &nbsp; Front-end development · Angular  
+**Markab** &nbsp; Mobile development · React Native
 
-## `> whoami`
+### Tools I work with
 
-I learn by turning real operational problems into software. My current interests include backend development, business automation, APIs, databases, offline-capable applications, testing and infrastructure.
+`JavaScript` &nbsp; `TypeScript` &nbsp; `Python` &nbsp; `SQL` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Angular` &nbsp; `React Native` &nbsp; `Node.js` &nbsp; `Express` &nbsp; `SQLite` &nbsp; `Turso` &nbsp; `Git` &nbsp; `Vercel`
 
-[→ About me](./docs/en/about.md) · [→ My journey](./docs/en/journey.md)
+<br>
 
-## `> featured_projects`
-
-### Hiperion Protocolos
-
-The original system that started with a real problem at my current workplace: replacing paper-based document deliveries with a complete, traceable digital operation.
-
-`Node.js` `Express` `SQLite/Turso` `PWA` `Offline Sync` `QR Code` `Digital Signatures` `RBAC`
-
-Includes protocol and pickup requests, QR Code validation, signatures, delivery evidence, configurable GPS rules, e-mail notifications, printing, audit history, recoverable deletion and cloud/internal operation.
-
-[→ Full project story](./docs/en/hiperion-protocolos.md) · [→ View public repository](https://github.com/zztrevisan/PROTOCOLOS-SERVER-PUBLIC)
-
-### Hiperion Website
-
-The complete redesign of my workplace public website: a 1969 accounting firm that needed a site explaining what it actually delivers.
-
-`Next.js` `React` `TypeScript` `Three.js` `GSAP` `Light/Dark themes` `3 languages` `Content as data`
-
-Includes a 3D hero built with instanced geometry, scroll-driven storytelling, a dotted globe rendered from a precomputed land mask, curated news that always credits its official source, and content the team updates without touching code.
-
-[→ Full project story](./docs/en/hiperion-website.md)
-
-### ProtoVia
-
-The commercial evolution currently in development: an independent, configurable version designed to be installed for different organizations without carrying Hiperion's operational data or identity.
-
-[→ See how ProtoVia evolved from Hiperion](./docs/en/protovia.md) 
-
-### NFSe Hiperion
-
-Automation project designed to reduce repetitive work when downloading and organizing municipal service invoice documents.
-
-[→ Explore NFSe Hiperion](./docs/en/nfse-hiperion.md)
-
-## `> currently_learning`
-
-`SQL` · `Testing` · `Software Architecture` · `Security` · `Accessibility & Performance` · `Cloud & DevOps fundamentals`
-
-[→ What I am studying](./docs/en/learning.md)
-
-## `> international_experience`
-
-Information Technology studies at **AIT**<br>
-Advanced English certification from **Australian Pacific College**<br>
-
-Advanced English and professional communication
-
----
-
-My goal is to begin my professional career in software development while continuing to grow across the full application lifecycle.
-
-> **Build. Break. Understand. Improve.**
+<p align="center"><sub>SOFTWARE ENGINEERING @ FIAP &nbsp; / &nbsp; IT STUDIES @ AIT, AUSTRALIA</sub></p>
+<p align="center"><sub>BUILD &nbsp; · &nbsp; BREAK &nbsp; · &nbsp; UNDERSTAND &nbsp; · &nbsp; IMPROVE</sub></p>
