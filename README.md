@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/trevisanz/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="https://github.com/zztrevisan/zztrevisan/blob/main/README.pt-BR.md">Português</a>
+  <a href="">Portifolio</a>
 </p>
 
 <br>
