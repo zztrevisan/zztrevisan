@@ -1,12 +1,10 @@
 <h1 align="center">Guilherme Trevisan</h1>
 <p align="center">Software developer · São Paulo, Brazil</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/trevisanz/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="">Portifolio</a>
 </p>
 
-<br>
 
 <h3 align="center">Experience</h3>
 
