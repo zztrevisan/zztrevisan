@@ -14,9 +14,13 @@
 **[Fismed](https://www.fismed.com.br/)** &nbsp; Front-end development · Angular  
 **[Markab](https://www.markabpay.com/)** &nbsp; Mobile development · React Native
 
+### Research
+
+Undergraduate research in progress at FIAP on behavioral language for AI-assisted software development.
+
 ### Tools I work with
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,angular,tailwind,nodejs,express,sqlite,git,vercel&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Python, React, Next.js, Angular, Tailwind CSS, Node.js, Express, SQLite, Git and Vercel" />
 </p>
 
@@ -25,3 +29,4 @@
 <p align="center"><sub>SOFTWARE ENGINEERING @ FIAP &nbsp; / &nbsp; IT STUDIES @ AIT, AUSTRALIA</sub></p>
 
 <p align="center"><img src="ascii-bottom.gif" alt="Animated ASCII characters moving across the bottom" width="100%" /></p>
+
