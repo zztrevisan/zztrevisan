@@ -12,15 +12,11 @@
 
 <br>
 
-### What I do
-
-**Web & mobile** &nbsp; · &nbsp; **APIs & backend** &nbsp; · &nbsp; **Automation** &nbsp;
-
 ### Experience
 
-**Hiperion** &nbsp; Software development & digital transformation  
-**Fismed** &nbsp; Front-end development · Angular  
-**Markab** &nbsp; Mobile development · React Native
+**[Hiperion](https://hiperionassessoriacontabil.com.br/pt)** &nbsp; Software development & digital transformation  
+**[Fismed](https://www.fismed.com.br/)** &nbsp; Front-end development · Angular  
+**[Markab](https://www.markabpay.com/)** &nbsp; Mobile development · React Native
 
 ### Tools I work with
 
@@ -32,4 +28,6 @@
 <p align="center"><sub>SOFTWARE ENGINEERING @ FIAP &nbsp; / &nbsp; IT STUDIES @ AIT, AUSTRALIA</sub></p>
 
 <p align="center"><img src="ascii-bottom.gif" alt="Animated ASCII characters moving across the bottom" width="100%" /></p>
+
+
 
